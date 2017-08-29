@@ -1,0 +1,22 @@
+{
+  "name": "js-store",
+  "version": "1.0.0",
+  "description": "friend repo",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/odtorres/js-store.git"
+  },
+  "keywords": [
+    "node"
+  ],
+  "author": "Johan, Oscar",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/odtorres/js-store/issues"
+  },
+  "homepage": "https://github.com/odtorres/js-store#readme"
+}
