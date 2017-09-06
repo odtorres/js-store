@@ -18,5 +18,8 @@
   "bugs": {
     "url": "https://github.com/odtorres/js-store/issues"
   },
-  "homepage": "https://github.com/odtorres/js-store#readme"
+  "homepage": "https://github.com/odtorres/js-store#readme",
+  "dependencies": {
+    "request": "^2.81.0"
+  }
 }
