@@ -20,6 +20,7 @@
   },
   "homepage": "https://github.com/odtorres/js-store#readme",
   "dependencies": {
-    "request": "^2.81.0"
+    "request": "^2.81.0",
+    "rxjs": "^5.4.3"
   }
 }
